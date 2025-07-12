@@ -9,9 +9,9 @@ Each project reflects a different concept, layout idea, or UI practice.
 
 | Project             | Preview                                     |
 |---------------------|---------------------------------------------|
-| **Amazon Clone**    | ![](./Amazon-Clone/images/preview1.png)     |
-|                     | ![](./Amazon-Clone/images/preview2.png)      |
-| **Suhae**           | ![](./Suhae/resource/preview.png)      |
+| **Amazon Clone**    | ![](Amazon-Clone/images/preview1.png)     |
+|                     | ![](Amazon-Clone/images/preview2.png)      |
+| **Suhae**           | ![](Suhae/resource/preview.png)      |
 
 > _Note: These are static designs. No responsiveness or JS logic added._
 
